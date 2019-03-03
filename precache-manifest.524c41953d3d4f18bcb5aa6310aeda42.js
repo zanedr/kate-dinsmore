@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/kate-dinsmore/static/media/twitter.0f03fe97.svg"
   },
   {
-    "revision": "18ae99d18ba8aca21cdd",
-    "url": "/kate-dinsmore/static/css/main.4b7f3dd5.chunk.css"
+    "revision": "ed184f40a40ee7e91198",
+    "url": "/kate-dinsmore/static/css/main.0253dce2.chunk.css"
   },
   {
     "revision": "5e27992646423aee8eb9",
@@ -28,8 +28,8 @@ self.__precacheManifest = [
     "url": "/kate-dinsmore/static/media/facebook.aa19a890.svg"
   },
   {
-    "revision": "18ae99d18ba8aca21cdd",
-    "url": "/kate-dinsmore/static/js/main.18ae99d1.chunk.js"
+    "revision": "ed184f40a40ee7e91198",
+    "url": "/kate-dinsmore/static/js/main.ed184f40.chunk.js"
   },
   {
     "revision": "39a26959b8c252f24f9af31d2e05c1db",
@@ -56,7 +56,7 @@ self.__precacheManifest = [
     "url": "/kate-dinsmore/static/media/mailwhite.8cc28ac2.svg"
   },
   {
-    "revision": "5ddc12144415bef2a4018a58d3b25e99",
+    "revision": "b7d4e210fae78d73187baea279622f2e",
     "url": "/kate-dinsmore/index.html"
   }
 ];
