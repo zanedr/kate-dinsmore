@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/kate-dinsmore/precache-manifest.524c41953d3d4f18bcb5aa6310aeda42.js"
+  "/kate-dinsmore/precache-manifest.f7a19399bc48d271e89036fca0d7f3ad.js"
 );
 
 workbox.clientsClaim();
